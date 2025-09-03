@@ -70,7 +70,8 @@ You can replace it with your own dataset for customization.
 
 📸 Demo
 
-👉 (<img width="406" height="424" alt="Screenshot 2025-09-02 120554" src="https://github.com/user-attachments/assets/9635f388-335f-446c-9cf7-7cbb2f603a5e" />)
+👉 <img width="642" height="1093" alt="image" src="https://github.com/user-attachments/assets/c18b1519-05c2-4274-9e41-c57300d66e3f" />
+
 
 🔮 Future Improvements
 
